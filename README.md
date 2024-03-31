@@ -3,7 +3,7 @@
 - `chmod +x audios.sh`
 
 # Usage
-`audios.sh <input program> <output program>` <br />
+`./audios.sh <input program> <output program>` <br />
 
 # Inputs/Outputs
 The i/o parameters should be part of a string that uniquely* identifies the program from the output you get with the command `pw-link -Io`|`pw-link -Ii`, for output and input respectively. <br />
